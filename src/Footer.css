@@ -1,0 +1,17 @@
+.footer{
+    background-color: gray;
+}
+.footer h2{
+    margin-top: 30px;
+}
+.footers{
+    display: flex;
+    gap: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+.footers a{
+    text-decoration: none;
+    color: #000;
+}
